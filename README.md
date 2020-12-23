@@ -16,3 +16,9 @@ deploy_python文件夹中的代码，是将so文件使用python语言部署到PC
 
 ### step 04
 deploy_cpp_pc文件夹中的代码，是将so文件使用cpp语言部署到PC上。
+
+### step 05 
+deploy_cpp_raspi文件夹中的代码，是将so文件使用cpp语言部署到树莓派3b上。
+
+### step 06
+deploy_cpp_gpu文件夹中的代码，是将so文件使用cpp语言部署到PC的GPU上。
